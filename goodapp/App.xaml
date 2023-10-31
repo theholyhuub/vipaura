@@ -1,0 +1,29 @@
+﻿<Application x:Class="goodapp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:view="clr-namespace:goodapp.MVVM.View"
+             xmlns:viewModel="clr-namespace:goodapp.MVVM.ViewModel"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/MenubuttonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/SearchbarTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+
+            <DataTemplate DataType="{x:Type viewModel:HomeViewModel}">
+                <view:HomeView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:ProjectViewModel}">
+                <view:ProjectView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:NoteViewModel}">
+                <view:NoteView/>
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
