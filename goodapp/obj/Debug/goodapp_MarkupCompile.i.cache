@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\huubd\source\repos\goodapp\goodapp\App.xaml
-6772337071
+8-2141816652
 
-15-944051692
+172060980200
 13-1310406943
-MainWindow.xaml;MVVM\View\HomeView.xaml;MVVM\View\NoteView.xaml;MVVM\View\ProjectView.xaml;Theme\MenubuttonTheme.xaml;Theme\SearchbarTheme.xaml;
+MainWindow.xaml;MVVM\View\HomeView.xaml;MVVM\View\NoteProjectView.xaml;MVVM\View\NoteView.xaml;MVVM\View\ProjectView.xaml;Theme\MenubuttonTheme.xaml;Theme\NoteTyperTheme.xaml;Theme\SearchbarTheme.xaml;
 images\vipaura.gif
 True
 

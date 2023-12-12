@@ -16,18 +16,13 @@ using System.Windows.Shapes;
 namespace goodapp.MVVM.View
 {
     /// <summary>
-    /// Interaction logic for NoteView.xaml
+    /// Interaction logic for NoteProjectView.xaml
     /// </summary>
-    public partial class NoteView : UserControl
+    public partial class NoteProjectView : UserControl
     {
-        public NoteView()
+        public NoteProjectView()
         {
             InitializeComponent();
-        }
-
-        private void Border_TextInput(object sender, TextCompositionEventArgs e)
-        {
-
         }
     }
 }

@@ -2,7 +2,6 @@ C:\Users\huubd\source\repos\goodapp\goodapp\bin\Debug\goodapp.exe.config
 C:\Users\huubd\source\repos\goodapp\goodapp\bin\Debug\goodapp.exe
 C:\Users\huubd\source\repos\goodapp\goodapp\bin\Debug\goodapp.pdb
 C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\goodapp.csproj.AssemblyReference.cache
-C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\goodapp.csproj.SuggestedBindingRedirects.cache
 C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\Theme\MenubuttonTheme.baml
 C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\MainWindow.g.cs
 C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\App.g.cs
@@ -24,3 +23,6 @@ C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\MVVM\View\ProjectView.g.cs
 C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\MVVM\View\ProjectView.baml
 C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\MVVM\View\NoteView.g.cs
 C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\MVVM\View\NoteView.baml
+C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\Theme\NoteTyperTheme.baml
+C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\MVVM\View\NoteProjectView.g.cs
+C:\Users\huubd\source\repos\goodapp\goodapp\obj\Debug\MVVM\View\NoteProjectView.baml

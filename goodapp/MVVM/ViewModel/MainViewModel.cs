@@ -12,12 +12,12 @@ namespace goodapp.MVVM.ViewModel
         public Relaycommand ProjectViewCommand { get; set; }
         public Relaycommand NodeViewCommand { get; set; }
 
-
         public HomeViewModel HomeVM { get; set; }
 
         public ProjectViewModel ProjectVM { get; set; }
 
         public NoteViewModel NodeVM { get; set; }
+
 
         private object _currentView;
 
@@ -35,6 +35,7 @@ namespace goodapp.MVVM.ViewModel
             HomeVM = new HomeViewModel();
             ProjectVM = new ProjectViewModel();
             NodeVM = new NoteViewModel();
+      
 
             CurrentView = HomeVM;
 

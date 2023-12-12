@@ -42,24 +42,7 @@
                                    FontSize="18"
                                    Margin="20,10,10,0"/>
                     </StackPanel>
-
-                    <Image Width="528"
-                           Height="196"
-                           Source="/Images/gf.jpg"
-                           HorizontalAlignment="Right"
-                           VerticalAlignment="Bottom"
-                           RenderTransformOrigin="1.26,0.485"
-                           Margin="0,0,42,4">
-                        <Image.RenderTransform>
-                            <TransformGroup>
-                                <ScaleTransform/>
-                                <SkewTransform/>
-                                <RotateTransform Angle="1.067"/>
-                                <TranslateTransform/>
-                            </TransformGroup>
-                        </Image.RenderTransform>
-                    </Image>
-
+                    
                 </Grid>
 
             </Border>
